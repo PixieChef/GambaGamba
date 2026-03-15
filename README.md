@@ -6,4 +6,4 @@ Jackpot gives four of the same letter
 SNAP is a 1/1000 chance to pull
 
 KNOWN BUGS:
-Common does not give all different letters somtimes. Will fix in the future
+Common does not give all different letters somtimes. Will fix in the future.
