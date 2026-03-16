@@ -5,5 +5,7 @@ Epics give three of the same letter
 Jackpot gives four of the same letter
 SNAP is a 1/1000 chance to pull
 
-KNOWN BUGS:
-Common does not give all different letters somtimes. Will fix in the future.
+INSTALL INSTRUCTIONS:
+Download the .zip file
+Extract all
+Open the .exe in the file
