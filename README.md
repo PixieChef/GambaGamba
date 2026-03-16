@@ -7,5 +7,5 @@ SNAP is a 1/1000 chance to pull
 
 INSTALL INSTRUCTIONS:
 Download the .zip file
-Extract all
+Right click then extract all
 Open the .exe in the file
